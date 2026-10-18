@@ -74,9 +74,14 @@ export const IncomeRegistryView: React.FC = () => {
       </div>
 
       {/* Portfolio map table */}
-      <div className="registry-table-wrap">
+      <div
+        className="registry-table-wrap"
+        role="region"
+        aria-labelledby="income-registry-caption"
+        tabIndex={0}
+      >
         <table className="registry-table">
-          <caption>
+          <caption id="income-registry-caption">
             Portfolio map — Wave 1 (registry excerpt). Weighted score is the illustrative example only.
           </caption>
           <thead>
