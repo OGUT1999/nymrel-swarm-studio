@@ -16,12 +16,18 @@ The packet contains 10 product/service descriptions, 17 researched platform rout
 
 These are execution priorities based on fit and preparation cost, not measured demand or predicted revenue. No unattended schedule has been created.
 
+## Public-source recheck — October 27, 2026
+
+The InfoFactory catalog homepage and AI Discoverability Kit product page were fetched again on October 27. The homepage still says checkout is opening soon; the individual product page displays a priced purchase link. Both page statements are preserved below. No checkout, payment, download, fulfillment, or refund was exercised. These observations do not clear paid promotion.
+
+Prior scan and host evidence should retain its original date and scope. This packet does not claim that no earlier functional release evidence exists; a present launch decision requires reviewing that evidence and current product health.
+
 ## Promotion boundaries
 
 - **AI-Visibility Scan:** technical access and machine-readable signals, not rankings or assistant recommendations. A completed fresh scan is not verified by this packet; a successful demonstration is required before launch.
 - **GolfFlow:** a Puget Sound course directory and planning tools. Live tee-time search is coming soon on its destination; do not advertise live inventory or booking through GolfFlow.
 - **MyCaddie:** iPhone GPS coverage is limited to three named Puget Sound courses. Android is coming soon. Lead with the available browser tools and actual course coverage.
-- **InfoFactory:** its destination describes public-source reports and says checkout is opening soon. Do not advertise immediate paid access or use the older outline-generator summary as current copy.
+- **InfoFactory:** the catalog homepage says checkout is opening soon, while an individual product page displays a priced purchase link. Completed payment and delivery remain unverified. Keep paid promotion on hold; use current product details rather than the older outline-generator summary.
 - **GoViral:** public pages describe clipping/export features, but signed-in upload-to-export processing and paid access were not tested. Confirm its canonical product domain before submitting a software listing.
 - **DraftADynasty:** retrieved pages mixed populated content with loading and differing week labels. Avoid time-sensitive freshness or predictive-accuracy claims until checked.
 - **MCP:** source and setup pages name four public tools. A directory listing, portable manifest, installed operator connection, and public OpenAI approval are separate states. Do not claim public OpenAI approval from this packet.
@@ -116,7 +122,7 @@ Use a platform's clean canonical URL field where required. Where referral parame
 
 Prepared 2026-10-26 from live public landing-page fetches. These are draft listing assets, not submitted or published placements. Landing-page availability does not verify signed-in processing, checkout, fulfillment, app installation, or target-host acceptance. Use the product destination's current access and pricing rather than assuming portfolio summaries are current.
 
-Preparation priority: scoped Nymrel services, MyCaddie web tools, GolfFlow directory, and the free AI-Visibility Scan after a successful functional demonstration. GoViral is a suitable listing candidate after upload/export acceptance; InfoFactory paid distribution stays held because its destination says checkout is opening soon. DraftADynasty needs a freshness/loaded-state check before time-sensitive claims. MCP copy must name only four public production tools.
+Preparation priority: scoped Nymrel services, MyCaddie web tools, GolfFlow directory, and the free AI-Visibility Scan after a successful functional demonstration. GoViral is a suitable listing candidate after upload/export acceptance; InfoFactory paid distribution stays held because availability signals conflict and payment/fulfillment remain unverified. DraftADynasty needs a freshness/loaded-state check before time-sensitive claims. MCP copy must name only four public production tools.
 
 ## Nymrel AI-Visibility Scan
 
@@ -147,15 +153,15 @@ GoViral helps creators turn long-form video or audio into short-form clip drafts
 ## InfoFactory
 
 - **Tagline (54/60):** Public-source reports for practical business decisions
-- **Short (133/160):** Browse local opportunity reports, research guides, and digital products for solo operators and small teams. Checkout is opening soon.
+- **Short (149/160):** Browse local opportunity reports, research guides, and digital products for solo operators and small teams. Check product details for current access.
 - **Audience:** Solo operators, consultants, small business teams
 - **CTA:** [Browse reports and product details](https://products.nymrel.com)
 
-InfoFactory packages public-source research into local opportunity reports, guides, and digital products for solo operators and small teams. Browse the catalog to see how each product frames a business question and what source material it includes. The current site also offers a way to request a sample report for a specific use case. Its public landing page says checkout is opening soon, so this listing invites browsing and research rather than promising immediate paid access.
+InfoFactory packages public-source research into local opportunity reports, guides, and digital products for solo operators and small teams. Browse the catalog to see how each product frames a business question and what source material it includes. The homepage says checkout is opening soon, while an individual kit page displays a purchase link. Check product details for current access; these pages do not establish completed payment or delivery.
 
-**Evidence and limits:** Actual destination differs materially from Nymrel summary calling it an outline-to-draft tool. Use current destination description. Checkout explicitly not open; paid promotion held. Sample request path exists but no form submitted.
+**Evidence and limits:** Actual destination differs materially from Nymrel's outline-to-draft summary. On October 27 the catalog homepage still said checkout is opening soon, but the AI Discoverability Kit page displayed a priced purchase link. Neither payment nor delivery was tested; paid promotion remains held. No checkout or sample-request form was submitted.
 
-**Sources:** [https://products.nymrel.com](https://products.nymrel.com) · [https://nymrel.com/products/infofactory](https://nymrel.com/products/infofactory)
+**Sources:** [catalog homepage](https://products.nymrel.com) · [AI Discoverability Kit product page](https://products.nymrel.com/products/ai-discoverability-kit) · [Nymrel product summary](https://nymrel.com/products/infofactory)
 
 ## MyCaddie
 
