@@ -72,6 +72,16 @@ Nymrel designs and builds websites, web applications, business tools, and AI aut
 
 **Automation-service summary:** Nymrel scopes a web app, dashboard, business tool, or AI automation around one defined job. Start with the manual steps, the tools already in use, and the outcome that should be true when the work is done.
 
+## Service discussion copy — existing custom scope
+
+**Draft copy for review; no new plan, price, booking or results claim.**
+
+Bring Nymrel one repetitive delivery task and the outcome you need. The team can help define the job, connect the tools you already use, and test the agreed scope with real inputs before launch. Describe where the process stalls and what would count as correct delivery; scope and price are agreed before work starts.
+
+**CTA:** [Discuss the workflow](https://nymrel.com/brief)
+
+This paragraph is grounded in the published [AI Products & Automation scope](https://nymrel.com/services/ai-products-automation), fetched October 27, 2026. The [care-service scope](https://nymrel.com/services/website-audit-ongoing-care), fetched the same day, separates a ranked fix list from separately quoted implementation. Neither page proves recovery performance or financial results.
+
 ## Platform-specific handoff
 
 | Platform | Use this prepared material | Action and unresolved gate |
